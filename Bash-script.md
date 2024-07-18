@@ -117,21 +117,30 @@ By following these steps, You will have a monitoring script that logs system res
 
 ## output:
 ```sh
-Timestamp: 2024-07-18 16:31:05, CPU Usage: 0%, RAM Usage: 19.2461%, Root Usage: 1%
-[2024-07-18 16:37:25] CPU Usage:
-[2024-07-18 16:37:25] RAM Usage: Used: 750Mi, Total: 3.8Gi, Free: 3.0Gi
-[2024-07-18 16:37:25] Disk Usage: Used: 3.4G, Total: 1007G, Available: 953G
-------------------------------------
-[2024-07-18 16:39:37] CPU Usage: 5.56%
-[2024-07-18 16:39:37] RAM Usage: Used: 796Mi, Total: 3.8Gi, Free: 2.8Gi
-[2024-07-18 16:39:37] Disk Usage: Used: 3.4G, Total: 1007G, Available: 953G
-------------------------------------
-[2024-07-18 16:40:54] CPU Usage: 3.22%
-[2024-07-18 16:40:54] RAM Usage: Used: 745Mi, Total: 3.8Gi, Free: 2.8Gi
-[2024-07-18 16:40:54] Disk Usage: Used: 3.4G, Total: 1007G, Available: 953G
-[2024-07-18 16:41:06] CPU Usage: 2.74%
-[2024-07-18 16:41:06] RAM Usage: Used: 765Mi, Total: 3.8Gi, Free: 2.8Gi
-[2024-07-18 16:41:06] Disk Usage: Used: 3.4G, Total: 1007G, Available: 953G
+2024-07-18 17:28:01, CPU Usage: 6.3%, RAM Usage: 18.3868%, Root Usage: 1%
+2024-07-18 17:30:02, CPU Usage: 1.6%, RAM Usage: 18.2149%, Root Usage: 1%
+2024-07-18 17:32:01, CPU Usage: 0%, RAM Usage: 18.3822%, Root Usage: 1%
+2024-07-18 17:34:01, CPU Usage: 3.2%, RAM Usage: 18.5343%, Root Usage: 1%
+2024-07-18 17:36:01, CPU Usage: 1.6%, RAM Usage: 18.5491%, Root Usage: 1%
+2024-07-18 17:38:01, CPU Usage: 0%, RAM Usage: 18.3238%, Root Usage: 1%
+2024-07-18 17:40:01, CPU Usage: 1.6%, RAM Usage: 18.539%, Root Usage: 1%
+2024-07-18 17:42:02, CPU Usage: 0%, RAM Usage: 18.6671%, Root Usage: 1%
+2024-07-18 17:44:01, CPU Usage: 3.2%, RAM Usage: 18.6603%, Root Usage: 1%
+2024-07-18 17:46:01, CPU Usage: 1.6%, RAM Usage: 18.3292%, Root Usage: 1%
+2024-07-18 17:48:02, CPU Usage: 1.6%, RAM Usage: 18.6776%, Root Usage: 1%
+2024-07-18 17:50:01, CPU Usage: 1.6%, RAM Usage: 18.3241%, Root Usage: 1%
+2024-07-18 17:52:01, CPU Usage: 16.9%, RAM Usage: 18.5459%, Root Usage: 1%
+2024-07-18 17:54:01, CPU Usage: 1.6%, RAM Usage: 18.405%, Root Usage: 1%
+2024-07-18 17:56:01, CPU Usage: 6.3%, RAM Usage: 18.2915%, Root Usage: 1%
+2024-07-18 17:58:01, CPU Usage: 1.6%, RAM Usage: 18.4624%, Root Usage: 1%
+2024-07-18 18:00:01, CPU Usage: 1.6%, RAM Usage: 18.6129%, Root Usage: 1%
+2024-07-18 18:02:01, CPU Usage: 1.6%, RAM Usage: 18.8718%, Root Usage: 1%
+2024-07-18 18:04:01, CPU Usage: 0%, RAM Usage: 18.7281%, Root Usage: 1%
+2024-07-18 18:06:01, CPU Usage: 3.4%, RAM Usage: 18.3956%, Root Usage: 1%
+2024-07-18 18:08:01, CPU Usage: 3.2%, RAM Usage: 18.8886%, Root Usage: 1%
+2024-07-18 18:10:01, CPU Usage: 1.6%, RAM Usage: 18.7667%, Root Usage: 1%
+2024-07-18 18:12:01, CPU Usage: 1.6%, RAM Usage: 18.8382%, Root Usage: 1%
+2024-07-18 18:14:01, CPU Usage: 0%, RAM Usage: 18.9721%, Root Usage: 1%
 ```
 
 
